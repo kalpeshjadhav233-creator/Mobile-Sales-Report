@@ -20,3 +20,5 @@ It consists of one main report page with the following insights:
 ## 🎯 Objective
 To develop an interactive Power BI report that provides a clear understanding of sales distribution, customer behavior, and product performance.
 
+## Dashboard
+<img width="905" height="507" alt="Dashboard" src="https://github.com/user-attachments/assets/8a9066db-c3d5-4a5f-aa17-4561a4fed65a" />
